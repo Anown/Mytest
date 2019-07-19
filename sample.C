@@ -6,5 +6,6 @@ int b = 2;
 int c;
 c = a+b;
 printf("a+b=%d\n",c);
-printf("Hello World.");
+
+printf("Hello Github");
 }
